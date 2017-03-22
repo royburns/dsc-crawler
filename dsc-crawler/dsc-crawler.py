@@ -97,10 +97,10 @@ class Crawler:
                 recommend_num, receive_hearts, interest_me_num, crush_me_num, \
                 referee_id, referee_name, heart_count, \
                 is_profile, is_crush, is_interest, heart_dir, show_info, ht_province, ht_city = \
-                    user_id, '-1', '未名', 'ios', '1983-09-01', \
+                    user_id, '-1', '未名', 'ios', '2017-09-01', \
                     '深圳', 'female', '50', '5', '5', \
                     'hometown,birthday,education', '', '本科', '武汉理工大学', \
-                    '湖北 武汉', '170', '60', '啦啦啦', \
+                    '湖北 武汉', '171', '60', '啦啦啦', \
                     'CEO', '食物与艺术', '处女座', '啦啦啦', '1', \
                     '2017-03-18 17:49:58', '5', '啦啦啦', '1', '1', \
                     '0', '0', '0', '0', \
