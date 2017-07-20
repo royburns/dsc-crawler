@@ -51,8 +51,8 @@ class Crawler:
             'Accept-Encoding': 'gzip'
         }
 
-        data = {'login': '13798385767',
-                'pass': '123123ok'
+        data = {'login': '******',
+                'pass': '******'
                 }
 
         print(user_id)

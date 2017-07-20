@@ -25,8 +25,8 @@ def get_user_info(user_id):
         'Accept-Encoding': 'gzip'
     }
 
-    data = {'login': '13798385767',
-            'pass': '123123ok'
+    data = {'login': '******',
+            'pass': '******'
             }
 
     s = '{}/{}/{}'.format(URL, url_api, user_id)
