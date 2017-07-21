@@ -3,7 +3,7 @@
 import ujson
 import requests
 
-# test for Githook       xxx
+# test for Githook       xxx test
 
 URL = 'https://dscapp.dscun.com'
 HOST = 'dscapp.dscun.com'
